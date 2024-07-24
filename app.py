@@ -30,7 +30,7 @@ part_mapping = {
 }
 
 docker_blue = '#086DD7'
-tilt_green = '#20BA31'
+tilt_green = '#20BB31'
 
 @app.before_first_request
 def initialize():
